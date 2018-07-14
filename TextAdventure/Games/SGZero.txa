@@ -1,0 +1,998 @@
+0
+The Adventures of SuperGary: Episode Zero
+~
+1 Yeah!
+
+1
+One day, Gary was sitting at the kitchen table eating breakfast, when suddenly he realized
+that he had no breakfast. "Oh no!" he said, "I'll have to go to the store and buy some!"
+~
+2 Go to the grocery store.
+3 Go to the gas station.
+
+2
+The grocery store is 40 miles away.
+~
+4 Ride the bus.
+5 Walk there.
+
+3
+Gary went to the gas station and bought some power bars for breakfast. The end.
+~
+999 Yay!
+
+4
+The bus ride costs 50 cents.
+~
+m:0 5 Gary only has a 100 dollar bill. Time to walk!
+m:1 6 Ride the bus.
+
+5
+After walking for three hours, Gary got to the grocery store. He bought some low-fat milk,
+then went to the cereal aisle, where he noticed there was a new brand of cereal. It was
+glowing green.
+~
+7 Buy some of the new cereal.
+8 Buy some regular cereal.
+
+6
+Gary was riding the bus when suddenly the bus driver shouted, "Oh no, we're going too fast!
+The bus is about to explode!"
+~
+9 Jump out the window.
+10 Eat some cereal.
+
+7
+-
+m=1
+-
+Gary bought some of the new cereal and paid for it with a 100 dollar bill. The store was
+having an anti-discount that day, so the cereal cost $99.50. Gary got 50 cents in change.
+~
+4 Ride the bus home.
+
+8
+Gary bought some regular cereal, went home, and ate it. "What an exciting day," he thought.
+~
+999 Go to sleep.
+
+9
+Gary jumped out the window, but unfortunately the bus was driving right next to a cliff!
+~
+999 Go to the hospital.
+
+10
+Gary ate some cereal. It made him feel really powerful. It probably gave him super powers.
+~
+p:0 11 Read the label on the cereal
+12 Run to the front of the bus and punch the engine.
+13 Jump out the back of the bus and drag it to a stop.
+14 Throw all the passengers out the window.
+15 Punch the bus driver.
+
+11
+-
+p=1
+-
+The label says "This cereal is made by Nuclear Powers Inc. Now with 50% more
+radioactivity!".
+~
+10 Stop reading.
+
+12
+Gary ran to the front of the bus and punched the engine until it began to overheat. The bus started going
+faster.
+~
+23 Punch harder.
+19 Drive the bus.
+
+13
+Gary jumped out the back of the bus. Then the bus drove off without him.
+~
+17 Chase after the bus.
+18 Go home.
+
+14
+Gary threw all the passengers and the driver out the window. Luckily, the bus was driving next to a pillow
+factory with open windows, so everybody landed safely. Then Gary jumped out the window too, and the bus
+crashed into a tree and exploded.
+~
+16 Celebrate.
+
+15
+Gary punched the bus driver and said "Stop driving so fast!". Unfortunately, he was so strong from eating
+the cereal that he knocked the bus driver unconscious.
+~
+19 Drive the bus.
+
+16
+Gary celebrated his victory over the bus and started thinking about his new super powers. "I'll need a
+secret name and a disguise," he said. Then he went to his room, found a cape, and said, "I'll call myself
+SuperGary!".
+~
+20 Go fight crime.
+
+17
+Gary ran after the bus with his new super speed. He was so fast that he ran back into the bus.
+~
+12 Punch the engine.
+
+18
+Gary went home. Later that night he saw on the news that the bus crashed into a marshmallow factory and
+that no one was hurt.
+~
+16 Celebrate.
+
+19
+Gary started driving the bus.
+~
+21 Turn left.
+22 Turn right.
+
+20
+SuperGary went outside and punched an ugly dog.
+~
+24 Go home.
+
+21
+Gary drove the bus off a cliff. Luckily, everybody on the bus was a professional skydiver and had brought
+their own parachute. One guy had an extra one and gave it to Gary. The bus fell 20,000 feet and exploded.
+~
+16 Celebrate.
+
+22
+Gary turned right and drove the bus into a river. Fortunately, the river cooled the bus down and stopped
+it from exploding. Then everybody swam to shore.
+~
+16 Celebrate.
+
+23
+Gary punched harder. The engine fell out of the bus and exploded, and the bus rolled safely to a stop.
+~
+16 Celebrate.
+
+24
+-
+&
+-
+SuperGary went back home and turned into normal Gary. His mom spanked him for staying out too late.
+~
+25 Ok.
+
+25
+Gary is at home.
+~
+a:0 26 Eat dinner. |a=1
+b:0 27 Watch TV.
+c:0 28 Play with the dog.
+d:0 29 Read a book.
+e:0 30 Talk to mom.
+f:5 31 Go to sleep.
+
+26
+-
+f+1
+-
+There was no dinner because Gary had stayed out too late.
+~
+25 Ok.
+
+27
+-
+b=1
+f+1
+-
+Gary watched the news. There was a report about a break-in at the local science laboratory. The scientist
+on the TV said "We were working on a machine to increase intelligence. Now it's gone, and one of the lab
+monkeys is gone too!".
+~
+25 Ok.
+
+28
+-
+c=1
+f+1
+-
+The dog didn't want to play with Gary because he'd punched it earlier.
+~
+25 Ok.
+
+29
+-
+d=1
+f+1
+-
+Gary read a book called "How to Play SGZero". It was a very short book. In fact, it was only one page. It
+said "To save your game, just type 'save'. Later you can load your game by typing 'load'. To leave the
+game, type 'exit'. To repeat the text for an area, type 'what' or 'refresh'. The code to defeat the final
+boss is...". Gary didn't know what the book was talking about, so he stopped reading.
+~
+25 Ok.
+
+30
+-
+e=1
+f+1
+-
+Mom said "Hmmmmmm!".
+~
+25 Ok.
+
+31
+Gary went to sleep.
+~
+32 Wake up.
+
+32
+Mom said, "Go back to sleep!".
+~
+33 Go back to sleep.
+
+33
+Gary went back back to sleep.
+~
+34 Sleep until morning.
+
+34
+-
+&
+-
+In the morning, Gary woke up and had some breakfast. Then he got ready to go to school.
+~
+40 Ok.
+
+35
+Gary got on the school bus. Suddenly the bus driver shouted, "Oh no, we're going too fast!
+The bus is about to explode!"
+~
+43 Use Gary's backpack as a parachute to slow down the bus.
+
+36
+-
+a+1
+-
+Mom said "I don't want to drive".
+~
+40 Ok.
+
+37
+-
+a+1
+-
+Mom said "Go take the bus".
+~
+40 Ok.
+
+38
+-
+b=3
+-
+Mom said "Hurry up and take the bus!".
+~
+40 Ok.
+
+39
+-
+a=3
+-
+The bus had already left because Gary spent too long talking to mom.
+~
+40 Ok.
+
+40
+Gary is ready to go to school.
+~
+b<3 35 Take the bus.
+b:3 39 Take the bus.
+a:0 36 Get mom to drive.
+a:1 37 Get mom to drive.
+a:2 38 Get mom to drive.
+a:3 41 Get mom to drive.
+
+41
+Mom said, "The bus left already? Now I have to drive you!". She drove Gary to school. On the way there they
+passed the school bus. It was going really fast, and the kids inside were waving and shouting. "They look
+like they're having a good time," said Gary sadly.
+~
+42 Go to school.
+
+42
+-
+&
+-
+When Gary got to school, there was an announcement. Apparently one of the school buses had gone out of
+control. Fortunately, it had driven onto the world's largest treadmill, which was going at exactly the same
+speed as the bus, so everybody was able to jump out the windows to safety before the bus exploded. However,
+the principal decided to cancel school that day anyway.
+~
+44 Go back home.
+
+43
+Gary tried to use his backpack as a parachute, but it was a terrible idea and didn't slow the bus down at
+all. The bus exploded and everybody had to go to the hospital.
+~
+999 Go to the hospital.
+
+44
+-
+A-1
+-
+Mom said, "I don't have time to drive you back home. You'll have to stay with me while I do errands".
+~
+45 Ok.
+
+45
+-
+A+1
+-
+Gary is following mom around.
+~
+a:0,A<5 50 Go to the grocery store.
+b:0,A<5 46 Mail things at the post office.
+c:0,A<5 47 Go to the garden supplies store.
+d:0,A<5 48 Take dog to vet.
+e:0,A<5 49 Pick up dry cleaning.
+A>4,A<10,f:0 55 Buy dinner.
+A>4,A<10,g:0 51 Pick up dog from vet.
+A>4,A<10,h:0 52 Go to the gas station.
+A>4,A<10,i:0 53 Buy dog food.
+A>4,A<10,j:0 54 Go to the amusement park.
+A:10 56 Go to the bank.
+
+46
+-
+b=1
+-
+Mom mailed some letters at the post office. Gary stayed in the car.
+~
+45 Ok.
+
+47
+-
+c=1
+-
+Mom bought some mulch at the garden supplies store. Gary stayed in the car.
+~
+45 Ok.
+
+48
+-
+d=1
+-
+Mom left the dog at the vet for some shots. Gary stayed in the car.
+~
+45 Ok.
+
+49
+-
+e=1
+-
+Mom picked up some clothes from the dry cleaners. Gary stayed in the car.
+~
+45 Ok.
+
+50
+-
+a=1
+-
+Mom went to the grocery store and bought some vegetables. Gary stayed in the car.
+~
+45 Ok.
+
+51
+-
+g=1
+-
+Mom picked up the dog from the vet. Gary stayed in the car.
+~
+45 Ok.
+
+52
+-
+h=1
+-
+Mom filled up the car with gas. Gary stayed in the car.
+~
+45 Ok.
+
+53
+-
+i=1
+-
+Mom bought dog food from the pet store. Gary stayed in the car.
+~
+45 Ok.
+
+54
+-
+j=1
+-
+Mom went to the amusement park. Gary stayed in the car.
+~
+45 Ok.
+
+55
+-
+f=1
+-
+Mom bought tacos for dinner. Gary stayed in the car.
+~
+45 Ok.
+
+56
+-
+&
+-
+Mom went to the bank. Gary said, "Man, I'm really bored! I'll go too".
+~
+57 Go in the bank.
+
+57
+-
+l=c
+l+d
+-
+Something was going on in the bank. Everybody was shouting.
+~
+A:0 61 Talk to security guard.
+A:1,s:0 75 Talk to security guard.
+A:1,s:1,j:0 72 Talk to security guard.
+A:1,s:1,j:1 73 Talk to security guard.
+c:0,s:0 62 Talk to bank teller.
+c>0,s:0 64 Talk to bank teller.
+d:0,s:1 67 Talk to bank teller.
+d>0,s:1 68 Talk to bank teller.
+a:0 58 Talk to angry man.
+a:1 59 Talk to angry man.
+a:2 60 Talk to angry man.
+66 Go to bathroom.
+t:1,q:0 88 Look behind plastic plant.
+X>1,l>0 82 Leave the bank.
+X>1,l:0 100 Leave the bank.
+
+58
+-
+a+1
+b=1
+-
+"Hey, what's going on?" Gary asked an angry man. "All the money is gone!" he shouted. "I'm angry!".
+~
+57 Ok.
+
+59
+-
+a+1
+-
+"I'm still angry!" said the angry man.
+~
+57 Ok.
+
+60
+-
+a+1
+-
+"I'm not so angry anymore," said the man who was no longer angry. "I didn't even have any money at this bank". The
+man left.
+~
+57 Ok.
+
+61
+A security guard is standing in the corner picking his nose.
+~
+b:1,s:0,l<50 71 Ask him where the money is.
+b:1,s:0,l>49,l<100 74 Ask him where the money is.
+b:1,s:0,l>99 84 Ask him where the money is.
+b:1,s:1,t:0 72 Ask him where the money is.
+b:1,s:1,t:1 73 Ask him where the money is.
+57 Don't talk to him.
+
+62
+"Do you want a lollipop?" the bank teller asked Gary.
+~
+c<99 63 Yes.
+c>98 65 Yes.
+57 No.
+
+63
+-
+c+1
+-
+Gary got a lollipop.
+~
+57 Ok.
+
+64
+"Do you want another lollipop?" the bank teller asked Gary.
+~
+c<99 63 Yes.
+c>98 65 Yes.
+p:0 57 No.
+
+65
+"You already have 99 lollipops!" said the bank teller. "It's against bank policy to give you any more".
+~
+57 Ok.
+
+66
+The bathroom is really clean.
+~
+s:0 69 Put on cape.
+s:1 70 Take off cape.
+57 Leave bathroom.
+
+67
+"Do you want a lollipop?" the bank teller asked SuperGary.
+~
+d<99 83 Yes.
+d>98 65 Yes.
+57 No.
+
+83
+-
+d+1
+-
+SuperGary got a lollipop.
+~
+57 Ok.
+
+68
+"Do you want another lollipop?" the bank teller asked SuperGary.
+~
+d<99 83 Yes.
+d>98 65 Yes.
+p:0 57 No.
+
+69
+-
+s=1
+-
+Gary turned into SuperGary.
+~
+66 Ok.
+
+70
+-
+s=0
+-
+SuperGary turned into Gary.
+~
+66 Ok.
+
+71
+"Where did the money go?" Gary asked the security guard. "I'll tell you if you give me 50 lollipops," the
+guard said.
+~
+57 Aw man.
+
+72
+-
+j=1
+-
+"Are you a superhero?" asked the guard. "I'm scared of superheroes". The guard refused to talk to
+SuperGary.
+~
+57 Ok.
+
+73
+The guard refused to talk to SuperGary.
+~
+57 Ok.
+
+74
+"Here's 50 lollipops," said Gary to the security guard. "I changed my mind," said the guard. "I want 100
+lollipops".
+~
+57 Aw man.
+
+84
+-
+c-50
+d-50
+A=1
+-
+"Here's 100 lollipops, you stupid man," said Gary to the security guard. "Now where's the money?". "I gave
+it to a really hairy man last night," said the guard. "He told me he was the president". "Why did you
+believe him?" asked Gary. "I... don't know..." said the guard.
+~
+75 Ask him more questions.
+
+75
+Gary is interrogating the security guard.
+~
+B:0 76 Ask the guard what his job is.
+C:0 77 Ask the guard how much money was in the vault. |C=1
+D:0 78 Ask the guard what happened last night.
+D:1 79 Ask the guard to see last night's security tapes.
+T:1 80 Follow him to the security room.
+57 Stop talking to the guard.
+
+76
+-
+B=1
+-
+Gary:"What is your job?"
+Guard:"I watch the money at night."
+Gary:"Why did the bank hire you?"
+Guard:"I have a PhD in economics."
+Gary:"Then why are you so stupid?"
+Guard:"I don't know?"
+~
+75 Ok.
+
+77
+Gary:"How much money was in the vault?"
+Guard:"I don't know. I can't count that high."
+~
+75 Ok.
+
+78
+-
+D=1
+-
+Gary:"What happened last night?"
+Guard:"I was sitting there watching the money. Then there was a big flash, and next thing I knew, I was
+giving all the money to the president. He said he wanted it to buy Canada."
+Gary:"What did the president look like?"
+Guard:"I don't know. It's probably on the security tapes."
+~
+75 Ok.
+
+79
+-
+D=2
+-
+"Let me see last night's security tapes," said Gary. "First give me 100 lollipops," said the guard. "No!"
+shouted Gary. "I'll kill you!". "Fine," the guard sighed, "I'll let you see the tapes. Follow me to the
+security room".
+~
+80 Follow the guard to the security room.
+
+80
+-
+T=1
+-
+Gary is in the security room.
+~
+t:0 87 Find last night's security tapes.
+s:0 57 Go back to the bank.
+
+81
+-
+t=1
+X+1
+-
+On the tapes, nothing happened until around midnight. Then there was a flash of light and the guard fell
+down and started scratching his head. Some sort of monkey thing walked up and talked to the guard for a
+while, then the guard unlocked the vault and it took all the money and left. On its way out the door, it
+bumped into a plastic plant and dropped something.
+~
+80 Ok.
+
+82
+-
+c=0
+d=0
+-
+On his way out of the bank, Gary threw away the rest of his lollipops.
+~
+100 Leave.
+
+87
+After searching for a while, Gary found last night's security tapes.
+~
+81 Watch the tapes.
+
+85
+"Well," said mom to Gary, "You've been following me around all day, so now we'll go somewhere you want to
+go!"
+~
+86 Go to the amusement park. |%a=amusement park
+86 Go to the candy factory. |%a=candy factory
+86 Go to the dinosaur zoo. |%a=dinosaur zoo
+86 Go to the movie theater. |%a=movie theater
+86 Go to the science labs. |%a=science labs
+
+86
+"I want to go to the BLANK," said Gary. "Ok," replied mom, "the science labs it is! This will be
+very educational for you!"
+~
+89 Go to the science labs.
+
+88
+-
+q=1
+X+1
+-
+Gary looked behind a plastic plant. There was a piece of paper there. It said,
+"My plan:
+1. Escape from lab.
+2. Steal 1 million dollars.
+3. Buy 1 million bananas."
+~
+57 Ok.
+
+89
+Mom took Gary to the science labs. "Well," she said, "I'll wait outside in the car for you." Gary went into
+the labs.
+~
+90 Ok.
+
+90
+Gary is in the science labs.
+~
+W:0 91 Go to the weapon research room.
+92 Go to the computer research room.
+S:0 93 Go to the brain research room.
+S:1 105 Go to the brain research room.
+a:0 94 Go to the flight research room.
+f:0 95 Go to the snack machine.
+f:1 103 Go to the snack machine.
+X:1 106 Leave the labs.
+
+91
+Gary walked into the weapon research room. One scientist said, "Look at this thing I invented. I call it a
+slingshot!". "But the slingshot is already invented," said Gary. "Aw man," said the scientist. He threw the
+slingshot into the trash.
+~
+97 Get the slingshot. |W=1
+90 Go back to the labs.
+
+92
+Gary walked into the computer research room. Some scientists were in there playing computer games. When
+they heard him walk in they started pretending to work.
+~
+g:0 99 Take a computer game. |g=1
+90 Go back to the labs.
+
+93
+Gary went to the brain research room. It was in complete disorder. "Can you tell me what happened here?" he
+asked a scientist. "No," said the scientist, "You don't have security access".
+~
+90 Go back to the labs.
+
+94
+Gary went to the flight research room. A scientist there said, "Hey, little kid, do you want to try out a
+flying bicycle?". "Wow!" said Gary, "Will I be the first kid to test one out?". "No," said the scientist,
+"The kids who tried out the earlier versions are all in the hospital".
+~
+96 Try out the bike. |a=1
+90 Go back to the labs.
+
+95
+Gary went to the snack machine, but he didn't have any money, so he just stood around for a while trying to
+look cool.
+~
+g:1,W:0 101 Put computer game in the snack machine.
+g:1,W:1,f:0,S:0 102 Put computer game in the snack machine. |f=1
+98 Shake the snack machine.
+90 Go back to the labs.
+
+96
+Gary got on the bike and it fell apart. "Hmm," said the scientist, "looks like this needs more work".
+~
+90 Go back to the labs.
+
+97
+Gary picked up the slingshot.
+~
+90 Go back to the labs.
+
+98
+Gary shook the snack machine. A security guard walked up and said, "Hey, stop that!".
+~
+90 Go back to the labs.
+
+99
+Gary took a computer game. It was "Dark Chronicles: The Prophesied Chaos Warriors of Destiny". "Hey!" said
+a scientist, "I need that for research!".
+~
+90 Go back to the labs.
+
+100
+-
+&
+-
+Gary left the bank and waited in the car. Soon, mom came out of the bank too. "Huh," she said, "There seems
+to be a problem at the bank".
+~
+85 Ok.
+
+101
+Gary tried to put the game into the snack machine, but he couldn't reach up far enough.
+~
+95 Ok.
+
+102
+Gary used his slingshot to fling the computer game through the snack slot and into the machine.
+~
+90 Go back to the labs.
+
+103
+There was a scientist at the snack machine. He wanted to get the video game inside, but he had no money, so
+he started shaking the machine.
+~
+104 Shoot him with a slingshot. |S=1,f=0
+90 Go back to the labs.
+
+104
+Gary shot the scientist with a slingshot. A security guard came up and said, "Nicely done! I'm making you
+an honorary security guard!". He gave Gary a security access card.
+~
+90 Go back to the labs.
+
+105
+-
+X=1
+-
+Gary went to the brain research room. It was in complete disorder. "Can you tell me what happened here?" he
+asked a scientist. "Well," said the scientist, "we were working on an intelligence increasing ray, but it
+seems that when everybody went home for the long weekend, we forgot to turn off the ray. One of the lab
+monkeys got zapped for 72 hours, and now he's super intelligent!". "Where is the ray now?" asked Gary. "The
+monkey escaped and he took it," answered the scientist.
+~
+107 Ask about the intelligence ray.
+108 Ask where the monkey went.
+90 Go back to the labs.
+
+106
+Game not complete.
+~
+999 Ok.
+
+107
+"The ray was originally designed to increase intelligence," said the scientist, "but it seems that the
+monkey reversed it before he left, to make it a stupid ray!".
+~
+108 Ask where the monkey went.
+90 Go back to the labs.
+
+108
+"I don't know where the monkey went," the scientist replied.
+~
+107 Ask about the intelligence ray.
+90 Go back to the labs.
+
+109
+UNACCESSED
+~
+999 .
+
+110
+UNACCESSED
+~
+999 .
+
+111
+UNACCESSED
+~
+999 .
+
+112
+UNACCESSED
+~
+999 .
+
+113
+UNACCESSED
+~
+999 .
+
+114
+UNACCESSED
+~
+999 .
+
+115
+UNACCESSED
+~
+999 .
+
+116
+UNACCESSED
+~
+999 .
+
+117
+UNACCESSED
+~
+999 .
+
+118
+UNACCESSED
+~
+999 .
+
+119
+UNACCESSED
+~
+999 .
+
+120
+UNACCESSED
+~
+999 .
+
+121
+UNACCESSED
+~
+999 .
+
+122
+UNACCESSED
+~
+999 .
+
+123
+UNACCESSED
+~
+999 .
+
+124
+UNACCESSED
+~
+999 .
+
+125
+UNACCESSED
+~
+999 .
+
+126
+UNACCESSED
+~
+999 .
+
+127
+UNACCESSED
+~
+999 .
+
+128
+UNACCESSED
+~
+999 .
+
+129
+UNACCESSED
+~
+999 .
+
+130
+UNACCESSED
+~
+999 .
+
+131
+UNACCESSED
+~
+999 .
+
+132
+UNACCESSED
+~
+999 .
+
+133
+UNACCESSED
+~
+999 .
+
+134
+UNACCESSED
+~
+999 .
+
+135
+UNACCESSED
+~
+999 .
+
+136
+UNACCESSED
+~
+999 .
+
+137
+UNACCESSED
+~
+999 .
